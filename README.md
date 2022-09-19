@@ -2,12 +2,14 @@
  A bare-bones copy of the game Worms with three dimensional destructible terrain. 
 
 # How to play 
+Setup/Controlls
 - Select player count, supports however many players you want
 - Move your guy with default movement for your device
  - Max 10 meters of movement each turn (calculated from start point)
 - Either throw a punch (M1/Right Trigger) or a grenade (M2/Left Trigger)
  - One action per turn
-________________________________________________
+
+Goal
 - Damage other guys by knocking them into water
 - Last guy standing wins
 
